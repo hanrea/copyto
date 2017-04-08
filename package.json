@@ -1,0 +1,27 @@
+{
+  "name": "copyto",
+  "version": "1.0.1",
+  "description": "copy object to new object with pick.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i && mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanrea/copyto.git"
+  },
+  "keywords": [
+    "copy",
+    "copyto"
+  ],
+  "author": "Hanrea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanrea/copyto/issues"
+  },
+  "homepage": "https://github.com/hanrea/copyto#readme",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
